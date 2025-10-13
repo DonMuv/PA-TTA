@@ -1,0 +1,7 @@
+MODEL:
+  ADAPTATION: source
+  ARCH: Standard
+TEST:
+  BATCH_SIZE: 16
+CORRUPTION:
+  DATASET: PVPanel

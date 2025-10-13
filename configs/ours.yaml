@@ -1,0 +1,14 @@
+MAX_EPOCH: 39
+MODEL:
+  ADAPTATION: ours
+  ARCH: Standard
+TEST:
+  BATCH_SIZE: 16
+CORRUPTION:
+  DATASET: PVPanel
+OPTIM:
+  METHOD: Adam
+  STEPS: 1
+  BETA: 0.9
+  LR: 1e-3
+  WD: 0.
