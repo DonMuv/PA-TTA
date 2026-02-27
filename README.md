@@ -1,4 +1,4 @@
-# PA-UCD
-This is the official repository for the paper "Photovoltaic Installation Growth Assessment via Unsupervised Change Detection".
+# PA-TTA
+This is the official repository for the paper "Test-Time Adaptation for Photovoltaic Installation Growth Assessment with Neural Memory".
 
 # Getting Started
