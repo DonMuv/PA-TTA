@@ -29,7 +29,7 @@ def softmax_cross_entropy(logits: torch.Tensor, target_logits: torch.Tensor, wei
     return torch.mean(entropy_map)
     
         
-class ViLUCD(nn.Module):
+class PaTTA(nn.Module):
     """Tent adapts a model by entropy minimization during testing.
 
     Once tented, a model adapts itself by updating on every forward.
