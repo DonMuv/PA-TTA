@@ -9,7 +9,7 @@ from trainer import trainer
 
 # import tent
 # import cotta
-import pa_ucd
+import pa_tta
 
 from conf import cfg, load_cfg_fom_args
 from data.PVPDataLoader import CDDataset
@@ -61,12 +61,12 @@ def evaluate(description):
     except:
         logger.warning("not resetting model1")
 
-    # root_dir = 'PVPanel-CD-India'
-    root_dir = 'PVP-Germany'
-    # 加载测试集    
+    root_dir = 'PVPanel-CD-India'
+    # root_dir = 'PVP-Germany'
+     
     val_set = CDDataset(root_dir=root_dir, split='val', img_size=256, is_train=False)
     val_dataset = DataLoader(val_set, batch_size=cfg.TEST.BATCH_SIZE, shuffle=True, num_workers=4)
-    # 进行训练或推理
+    
     train_flag = True
     if train_flag:
         logger.info("=====> Start training.....")
@@ -108,22 +108,16 @@ def setup_tent(model):
 
 
 def setup_ours(model):
-    """Set up tent adaptation.
 
-    Configure the model for training + feature modulation by batch statistics, 配置模型进行训练 + 通过批量统计进行特征调制，
-    collect the parameters for feature modulation by gradient optimization,  收集通过梯度优化进行特征调制的参数
-    set up the optimizer, and then tent the model.  设置优化器，然后对模型进行帐篷自适应。
-    """
     # model = our_model.configure_model(model)
     params, param_names = pa_ucd.collect_params(model)
     optimizer = setup_optimizer(params)
-    paucd_model = pa_ucd.ViLUCD(model, optimizer,
+    patta_model = pa_tta.PaTTA(model, optimizer,
                              steps=cfg.OPTIM.STEPS,
                              episodic=cfg.MODEL.EPISODIC)
-    # logger.info(f"model for adaptation: %s", model)
     logger.info(f"params for adaptation: %s", param_names)
     logger.info(f"optimizer for adaptation: %s", optimizer)
-    return paucd_model.cuda()
+    return patta_model.cuda()
 
 
 def setup_cotta(model):
