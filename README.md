@@ -18,7 +18,7 @@
 
 ## Overview
 
-* PA-TTA addressed both domain shift and catastrophic forgetting, enabling the detection of photovoltaic installation growth across diverse geographic regions without requiring ground-truth labels.
+* PA-TTA addresses both domain shift and catastrophic forgetting, enabling the detection of photovoltaic installation growth across diverse geographic regions without requiring ground-truth labels.
 
 <p align="center">
   <img src="data/network_architecture.png" alt="accuracy" width="90%">
