@@ -12,10 +12,17 @@
 
 </div>
 
-## 🛎️Updates
+## Updates
 * **` Notice`**: The code of this repo has been updated! We'd appreciate it if you could give this repo a ⭐️**star**⭐️ and stay tuned!!
 * **` Jun. 11th, 2026`**: PA-TTA has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/)!
 
+## Overview
+
+* PA-TTA addressed both domain shift and catastrophic forgetting, enabling the detection of photovoltaic installation growth across diverse geographic regions without requiring ground-truth labels.
+
+<p align="center">
+  <img src="data/network_architecture.png" alt="accuracy" width="90%">
+</p>
 
 ## Datasets
 We provide the data for the [Telangana, India](https://drive.google.com/file/d/1hMTfYflfdnCwFqXacMuuvDZjZHsreIzL/view?usp=sharing) and [Bavaria, Germany](https://drive.google.com/file/d/1Ejx9_Ohjw2HPs6tH0DQ_W0PmksEXkmM3/view?usp=sharing) test regions, the complete dataset will be publicly released in the near future.
