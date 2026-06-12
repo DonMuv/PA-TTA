@@ -6,11 +6,9 @@
 
 [Rui Huang](https://github.com/DonMuv)<sup>1</sup>, [Huanjing Yue](https://scholar.google.com/citations?user=1umAObUAAAAJ&hl=zh-CN&oi=sra)<sup>1</sup>, [Jianhua Guo](https://scholar.google.com/citations?user=xY0__WQAAAAJ&hl=zh-CN&oi=sra)<sup>2</sup>, [Xiaoqiang Lu](https://scholar.google.com/citations?user=FRyuu2IAAAAJ&hl=zh-CN&oi=sra)<sup>3</sup>, [Jingyu Yang](https://scholar.google.com/citations?user=x0jlbE4AAAAJ&hl=zh-CN&oi=sra)<sup>1 *</sup>
 
-<sup>1</sup> Tianjin University, <sup>2</sup> Chinese Academy of Sciences,  <sup>3</sup> Fuzhou University.
+<sup>1</sup> Tianjin University, <sup>2</sup> Chinese Academy of Sciences,  <sup>3</sup> Fuzhou University, <sup>*</sup> Corresponding author
 
-<sup>*</sup> Corresponding author
-
-[![TGRS paper](https://img.shields.io/badge/TGRS-paper-00629B.svg)](https://www.ieee.org/)  [![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/) ![visitors](![visitors](https://visitor-badge.laobi.icu/badge?page_id=DonMuv.PA-TTA&left_color=%23c1a3cc&right_color=%23cc7e3e))
+[![TGRS paper](https://img.shields.io/badge/TGRS-paper-00629B.svg)](https://www.ieee.org/)  [![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DonMuv.PA-TTA&left_color=%23c1a3cc&right_color=%23cc7e3e)
 
 </div>
 ## 🛎️Updates
