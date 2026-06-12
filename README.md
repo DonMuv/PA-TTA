@@ -11,13 +11,14 @@
 [![TGRS paper](https://img.shields.io/badge/TGRS-paper-00629B.svg)](https://www.ieee.org/)  [![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DonMuv.PA-TTA&left_color=%23c1a3cc&right_color=%23cc7e3e)
 
 </div>
+
 ## 🛎️Updates
-ChangeMamba has been accepted by IEEE TGRS! We'd appreciate it if you could give this repo a ⭐️star⭐️ and stay tuned!!
 * **` Notice`**: The code of this repo has been updated! We'd appreciate it if you could give this repo a ⭐️**star**⭐️ and stay tuned!!
 * **` Jun. 11th, 2026`**: PA-TTA has been accepted by [IEEE TGRS](https://ieeexplore.ieee.org/)!
 
 
-# Datasets
+## Datasets
 We provide the data for the [Telangana, India](https://drive.google.com/file/d/1hMTfYflfdnCwFqXacMuuvDZjZHsreIzL/view?usp=sharing) and [Bavaria, Germany](https://drive.google.com/file/d/1Ejx9_Ohjw2HPs6tH0DQ_W0PmksEXkmM3/view?usp=sharing) test regions, the complete dataset will be publicly released in the near future.
 
-# Getting Started
+## Getting Started
+
