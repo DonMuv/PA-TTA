@@ -24,6 +24,18 @@
   <img src="data/network_architecture.png" alt="accuracy" width="90%">
 </p>
 
+* Visualization comparison on data from the Telangana.
+
+<p align="center">
+  <img src="data/Telangana.png" alt="accuracy" width="90%">
+</p>
+
+* Visual comparison on data from the Bavaria.
+
+<p align="center">
+  <img src="data/Bavaria.png" alt="accuracy" width="90%">
+</p>
+
 ## Datasets
 We provide the data for the [Telangana, India](https://drive.google.com/file/d/1hMTfYflfdnCwFqXacMuuvDZjZHsreIzL/view?usp=sharing) and [Bavaria, Germany](https://drive.google.com/file/d/1Ejx9_Ohjw2HPs6tH0DQ_W0PmksEXkmM3/view?usp=sharing) test regions, the complete dataset will be publicly released in the near future.
 
