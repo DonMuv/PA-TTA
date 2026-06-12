@@ -27,13 +27,13 @@
 * Visualization comparison on data from the Telangana.
 
 <p align="center">
-  <img src="data/Telangana.png" alt="accuracy" width="90%">
+  <img src="data/Telangana.png" alt="accuracy" width="70%">
 </p>
 
 * Visual comparison on data from the Bavaria.
 
 <p align="center">
-  <img src="data/Bavaria.png" alt="accuracy" width="90%">
+  <img src="data/Bavaria.png" alt="accuracy" width="70%">
 </p>
 
 ## Datasets
