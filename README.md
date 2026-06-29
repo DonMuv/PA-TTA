@@ -41,3 +41,18 @@ We provide the data for the [Telangana, India](https://drive.google.com/file/d/1
 
 ## Getting Started
 
+## Reference
+If this dataset or code contributes to your research, please kindly consider citing our paper and give this repo ⭐️ :)
+```
+@ARTICLE{11563891,
+  author={Huang, Rui and Yue, Huanjing and Guo, Jianhua and Lu, Xiaoqiang and Yang, Jingyu},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Test-Time Adaptation for Photovoltaic Installation Growth Assessment}, 
+  year={2026},
+  volume={64},
+  number={},
+  pages={4705214-4705214},
+  keywords={Modeling;Labeling;Signal detection;Testing;Timing;Remote sensing;Conferences;Imaging;Geoscience and remote sensing;Change detection (CD);domain adaptation (DA);remote sensing image;unsupervised learning},
+  doi={10.1109/TGRS.2026.3703807}
+}
+```
