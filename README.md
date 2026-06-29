@@ -44,7 +44,7 @@ We provide the data for the [Telangana, India](https://drive.google.com/file/d/1
 ## Reference
 If this dataset or code contributes to your research, please kindly consider citing our paper and give this repo ⭐️ :)
 ```
-@ARTICLE{11563891,
+@ARTICLE{huang2026test,
   author={Huang, Rui and Yue, Huanjing and Guo, Jianhua and Lu, Xiaoqiang and Yang, Jingyu},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Test-Time Adaptation for Photovoltaic Installation Growth Assessment}, 
