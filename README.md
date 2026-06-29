@@ -52,7 +52,6 @@ If this dataset or code contributes to your research, please kindly consider cit
   volume={64},
   number={},
   pages={4705214-4705214},
-  keywords={Modeling;Labeling;Signal detection;Testing;Timing;Remote sensing;Conferences;Imaging;Geoscience and remote sensing;Change detection (CD);domain adaptation (DA);remote sensing image;unsupervised learning},
   doi={10.1109/TGRS.2026.3703807}
 }
 ```
